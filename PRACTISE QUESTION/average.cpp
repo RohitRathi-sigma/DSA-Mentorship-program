@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main(){
     float phy=35;
     float chem=88;
